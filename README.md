@@ -14,7 +14,7 @@
 <br></h4>
 <h6 dir="rtl"></h6>
 <pre>
-<span>git clone https://github.com/CoderTM/apiBot.git</span>
+<span>git clone https://github.com/CoderTM/inline.git</span>
 </pre>
 <h4 dir="rtl">داخل فایل cli.lua بروید
 در لاین ۱،۲،۹ بجای sadra یوزر سرور خود را درج کنید/

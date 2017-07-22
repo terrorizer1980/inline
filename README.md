@@ -39,7 +39,7 @@
 <h4 dir="rtl">
 <br>حال ترمینال جدید باز کنید و ربات api را با دستورات زیر ران کنید.</h4>
 <pre>
-<span>cd apiBot</span>
+<span>cd inline</span>
 <span>screen ./api.sh</span>
 </pre>
 <h4 dir="rtl">⚠️نکته مهم⚠️

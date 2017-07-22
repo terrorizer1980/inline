@@ -29,7 +29,7 @@
 <br>ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ<br>
 </h4>بعد از انجام این مرحله این کد هارا در ترمینال اجرا کنید😉
 <pre>
-<span>cd inline</span>
+<span>cd apiBot</span>
 <span>chmod +x api.sh</span>
 <span>chmod +x tg</span>
 <span>chmod +x cli.sh</span>
@@ -39,7 +39,7 @@
 <h4 dir="rtl">
 <br>حال ترمینال جدید باز کنید و ربات api را با دستورات زیر ران کنید.</h4>
 <pre>
-<span>cd inline</span>
+<span>cd apiBot</span>
 <span>screen ./api.sh</span>
 </pre>
 <h4 dir="rtl">⚠️نکته مهم⚠️
@@ -51,7 +51,7 @@
 <span>killall tmux</span>
 <span>killall screen</span>
 <span>killall -9 bash</span>
-<span>cd inline</span>
+<span>cd apiBot</span>
 <span>./on.sh</span>
 </pre>
 اموزش های بیش تر در کانال

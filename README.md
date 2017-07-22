@@ -44,6 +44,6 @@
 </pre>
 <h4 dir="rtl">⚠️نکته مهم⚠️
 <h4 dir="rtl">حتما به بات دسترسی اینلاین بدهید
-# [آموزش فعال کردن اینلاین در ربات](https://telegram.me/titantims)
+# [آموزش فعال کردن اینلاین در ربات](https://telegram.me/CoderTeam)
 
 

@@ -46,8 +46,27 @@
 <h4 dir="rtl">حتما به بات دسترسی اینلاین بدهید
 
 <br><br>
-<h4 dir="rtl"><br>روشن کردن جفت بات ها با اتولانچ👇</h4>
+<h4 dir="rtl"><br>روشن کردن جفت بات ها با اتولانچ💡</h4>
 <pre>
+<span>killall tmux</span>
+<span>killall screen</span>
+<span>killall -9 bash</span>
+<span>cd inline</span>
+<span>./on.sh</span>
+</pre>
+اموزش های بیش تر در کانال
+
+# [_آموزش نصب سورس_](https://telegram.me/CoderTeam)
+
+
+###  *Telegram channel*:
+
+# [✔CoderTeam](https://telegram.me/CoderTeam)
+
+* * *
+》*ستاره یادتون نره😉*
+
+
 
 
 

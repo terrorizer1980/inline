@@ -1,6 +1,4 @@
-<h1><p align="center"><stronge>🌟سورس اینلاین🌟</stronge>
-
-<br>➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖<br>
+<h1><p align="center"><stronge>InlinePV Source</stronge>
 
 <h4 dir="rtl"> 😊قبل از نصب از این کد ها استفاده کنید
 </h4>
